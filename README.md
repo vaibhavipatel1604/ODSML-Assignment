@@ -7,3 +7,6 @@ The assignment covers foundational concepts and practical applications of optimi
 - Hessian Analysis and Local Optimality
 - Applied optimization on real functions and small datasets
 - Comparison between solvers and conceptual understanding of Quasi-Newton methods
+
+### Part A Warm-up
+# A1 Gradient Descent Recap
