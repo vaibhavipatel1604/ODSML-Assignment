@@ -11,7 +11,7 @@ The assignment covers foundational concepts and practical applications of optimi
 ## Part A Warm-up
 ### A1. Gradient Descent Recap
 - explain why the gradient descent update rule
-  wk+1 = w~k~ − α ∇f(wk)
+  wk+1 = w<sup>k</sup> − α ∇f(wk)
 leads us closer to a (local) minimum, provided α is suitably chosen.
 - Give an example of how you might pick a fixed step size versus using a simple Armijo line
 search. Briefly discuss one advantage of line search in practice.
